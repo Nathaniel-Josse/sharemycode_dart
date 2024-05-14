@@ -26,6 +26,12 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "bcrypt",
+      "rootUri": "file:///C:/Users/Nathaniel/AppData/Local/Pub/Cache/hosted/pub.dev/bcrypt-1.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
       "name": "boolean_selector",
       "rootUri": "file:///C:/Users/Nathaniel/AppData/Local/Pub/Cache/hosted/pub.dev/boolean_selector-2.1.1",
       "packageUri": "lib/",
@@ -338,7 +344,7 @@
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-05-14T12:50:38.849326Z",
+  "generated": "2024-05-14T14:30:18.901626Z",
   "generator": "pub",
   "generatorVersion": "3.3.4"
 }
