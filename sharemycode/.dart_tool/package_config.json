@@ -44,6 +44,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "clock",
+      "rootUri": "file:///C:/Users/Nathaniel/AppData/Local/Pub/Cache/hosted/pub.dev/clock-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "collection",
       "rootUri": "file:///C:/Users/Nathaniel/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.18.0",
       "packageUri": "lib/",
@@ -114,6 +120,12 @@
       "rootUri": "file:///C:/Users/Nathaniel/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///C:/Users/Nathaniel/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.19.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "io",
@@ -344,7 +356,7 @@
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-05-14T14:30:18.901626Z",
+  "generated": "2024-05-28T08:05:20.063786Z",
   "generator": "pub",
   "generatorVersion": "3.3.4"
 }
