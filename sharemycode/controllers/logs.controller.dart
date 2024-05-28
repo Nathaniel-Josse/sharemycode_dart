@@ -3,7 +3,7 @@ import 'package:mysql_client/mysql_client.dart';
 
 import '../Utils/connection.dart';
 
-class Logs extends Connection {
+class LogsController extends Connection {
   Future create(Request request, Response response) async {
     String idContents = request.url.queryParameters['id_contents'] ?? '';
     if (idContents == '') {
