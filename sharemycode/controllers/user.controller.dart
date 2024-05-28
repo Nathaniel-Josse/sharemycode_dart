@@ -96,6 +96,6 @@ class UserController extends Connection {
   }
 
   void logout() {
-    // TODO
+    // Tout doux, on n'a pas encore implémenté le logout
   }
 }
