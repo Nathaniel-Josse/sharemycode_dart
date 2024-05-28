@@ -82,6 +82,10 @@ class UserController extends Connection {
     await disconnect();
   }
 
+  /// Cette fonction parcourt la liste de [mails] et vérifie si elle contient le
+  /// mail à tester [mailtoTest].
+  ///
+  /// Elle renvoie [true] si le mail est unique, [false] si celui-ci est dans la base de données.
   bool checkEmailUnique(mails, String mailToTest) {
     for (String mail in mails) {
       if (mail == mailToTest) {
@@ -89,5 +93,9 @@ class UserController extends Connection {
       }
     }
     return (true);
+  }
+
+  void logout() {
+    // TODO
   }
 }
